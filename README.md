@@ -1,6 +1,8 @@
 https://idyllic-croissant-e5573d.netlify.app/
-![image](https://user-images.githubusercontent.com/103143504/175911892-3befe4fc-115d-4489-89bd-3665c7c8abf8.png)
-![image](https://user-images.githubusercontent.com/103143504/175912023-76658127-ac51-4572-81da-cbfe39308162.png)
+
+![image](https://user-images.githubusercontent.com/103143504/175913403-c8f930ee-0377-4036-880b-9bd820d11952.png)
+
+![image](https://user-images.githubusercontent.com/103143504/175913502-76242744-d4f3-48c5-887a-a098a2e206d4.png)
 
 
 # Getting Started with Create React App
